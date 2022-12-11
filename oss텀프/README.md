@@ -5,13 +5,18 @@
 **번화가 시뮬레이터<br>**
 ### 2. Team<br>
 **Individual**<br>
-### 3. What is this program for?
+### 3. Demo Capture
+![header](https://github.com/johnkang2/Hello/blob/main/oss%ED%85%80%ED%94%84/%EC%8B%A4%ED%96%89%EC%BA%A1%EC%B2%981.JPG?raw=true) 
+![header](https://github.com/johnkang2/Hello/blob/main/oss%ED%85%80%ED%94%84/%EC%8B%A4%ED%96%89%EC%BA%A1%EC%B2%982.JPG?raw=true) 
+
+<br>
+### 4. What is this program for?
 **This program simulates the profits comming from the main street**<br>
 **Now you are the owner of the main street !**<br> 
 **All profits comming from the stores are yours !**<br>
 **The Main steet's open hour is 5PM ~ next day 5AM**<br>
 **Enjoy watching the profits you earned that day!**<br>
-### 4. How to use<br>
+### 5. How to use<br>
 * **Press '시뮬레이터 시작' button to start simulator**<br>
 * **If you have runed so .csv file exists, load the record**<br>
 * **Press '일시정지' button to pause**<br>
@@ -19,7 +24,7 @@
 * **When the day ends, Today & Accrue profit will be shown and saved to your PC**<br>
 * **Unless you pause, Next day will begin after 5 seconds**<br>
 * **The price next to store's name means usage fee**<br>
-### 5. For those who want to know more<br>
+### 6. For those who want to know more<br>
 * 1 min of simulator time equals 1/3sec of actual time<br>
 * Blue indicates people who are now here, Purple indicates people who are already playing<br>
 * And yellow indicates people who will go home.
@@ -28,7 +33,7 @@
 * It's because I failed to find the way to remove turtle object.<br>
 * So I used only .hideturtle() and memory usage is constantly increasing.<br>
 * My PC RAM is 16G and it stopped at day83.<br>
-* This is the human spawn chart<br><br>
+* This is the human spawn chart<br>
 
 | HOUR | MON | TUE | WED | THU | FRI | SAT | SUN |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -45,5 +50,5 @@
 |3-4|3|3|3|3|5|5|3|
 |4-5|0|0|0|3|5|5|3|
 
-<br><br>
+<br>
 # Thank You Very Much!!<br><br>

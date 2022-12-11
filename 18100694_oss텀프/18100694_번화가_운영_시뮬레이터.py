@@ -572,7 +572,7 @@ class Simulator :
     def showInfo(self) :   #Message 가 아닌 messagebox를 쓰는 이유는 turtle이 움직일때 새로운 Tk()를 하면 움직이던게 멈춰버린다.
         if self.start==True:
             self.timePause()  #Tk()와 다르게 터틀움직이는게 멈췃다가 다시 재개되지만 그래도 멈추긴하므로
-        tk.messagebox.showinfo(message="사용설명서 : https://github.com/johnkang2/Hello/blob/main/oss텀프/README.md")
+        tk.messagebox.showinfo(message="사용설명서 : https://github.com/johnkang2/Hello/blob/main/18100694_oss텀프/README.md")
         
     def read(self) :
         if path.exists('record.csv')==True:

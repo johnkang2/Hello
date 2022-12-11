@@ -12,8 +12,8 @@
 **The Main steet's open hour is 5PM ~ next day 5AM**<br>
 **Enjoy watching the profits you earned that day!**<br>
 ### 4. Demo Capture
-![header](https://github.com/johnkang2/Hello/blob/main/oss%ED%85%80%ED%94%84/%EC%8B%A4%ED%96%89%EC%BA%A1%EC%B2%981.JPG?raw=true)
-![header](https://github.com/johnkang2/Hello/blob/main/oss%ED%85%80%ED%94%84/%EC%8B%A4%ED%96%89%EC%BA%A1%EC%B2%982.JPG?raw=true)
+![header](https://github.com/johnkang2/Hello/blob/main/oss%ED%85%80%ED%94%84/18100694_%EB%B2%88%ED%99%94%EA%B0%80_%EC%9A%B4%EC%98%81_%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%ED%84%B0_%EC%BA%A1%EC%B2%981.JPG?raw=true)
+![header](https://github.com/johnkang2/Hello/blob/main/oss%ED%85%80%ED%94%84/18100694_%EB%B2%88%ED%99%94%EA%B0%80_%EC%9A%B4%EC%98%81_%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%ED%84%B0_%EC%BA%A1%EC%B2%982.JPG?raw=true)
 ### 5. How to use<br>
 * **Press '시뮬레이터 시작' button to start simulator**<br>
 * **Your record will be saved in 'record.csv'**<br>

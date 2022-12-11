@@ -17,8 +17,8 @@
 ### 5. How to use<br>
 * **Press '시뮬레이터 시작' button to start simulator**<br>
 * **Your record will be saved in 'record.csv'**<br>
-* **'record.csv' will be created Automatically in same directory with '번화가_운영_시뮬레이터.py'**<br>
-* **Given .csv file has record of 56 days I have runned**<br>
+* **'record.csv' will be created Automatically in same directory with '18100694_번화가_운영_시뮬레이터.py'**<br>
+* **Given .csv file has record of 56 Days I have already runned**<br>
 * **Place it to same directory with .py to resume or leave it to start NEW simulator**<br>
 * **Press '일시정지' button to pause**<br>
 * **Press '시뮬레이터 재개' button to resume** <br>
